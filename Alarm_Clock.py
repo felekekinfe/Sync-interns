@@ -10,7 +10,7 @@ def check_alarm(setTime):
         currenttime=datetime.now().strftime('%H:%M:%S')
         if currenttime==setTime:
             print('alaaarrmmmm')
-            playsound.playsound("/home/tor/Downloads/Koi_Mil_Gaya_-_Koi_Mil_Gaya____4k_Video____Hrithik_Roshan%2C_Priti_Zinta___Koi_Mil_Gaya___90_s_Song_s(256k).mp3")
+            playsound.playsound("/path/alarm.mp3")
             break
            
 
