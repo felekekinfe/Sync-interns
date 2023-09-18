@@ -42,3 +42,27 @@ clock.mainloop()
 #Execution of the window.
 
 win.mainloop()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
